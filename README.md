@@ -1,2 +1,2 @@
 # HtmlStuffs Website
-(Website)[https://htmlstuffs.github.io/]
+https://htmlstuffs.github.io/
