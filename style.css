@@ -1,0 +1,12 @@
+h1 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-align:center;
+    font-size: 32px;
+}
+/* H2 Stuff */
+h2 {
+    text-align:center;
+    font-size: 15px;
+}
