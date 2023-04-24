@@ -5,6 +5,11 @@
     text-decoration-thickness: 2px;
     text-align:center;
     font-size: 32px;
+    transition: color .15s ease-in-out
+    :hover {
+        color: blue;
+        
+    }
 }
 /* Button Stuff */
 .button {
