@@ -3,14 +3,17 @@
     text-transform: capitalize;
     text-decoration: underline;
     text-decoration-thickness: 2px;
-    text-align:center;
+    text-align: center;
     font-size: 32px;
     transition: color .15s ease-in-out
     :hover {
         color: blue;
-        
     }
 }
+.pagesubtitle {
+    text-align: center;
+    font-size: 21px;
+    
 /* Button Stuff */
 .button {
     cursor: pointer;
