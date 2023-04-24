@@ -6,7 +6,21 @@ h1 {
     font-size: 32px;
 }
 /* H2 Stuff */
-a {
-    text-align:center;
-    font-size: 15px;
+.button {
+    padding:1em;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none !important;
+    margin:0 auto;
+
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.container{
+  width: 100%;
+  text-align: center;
 }
