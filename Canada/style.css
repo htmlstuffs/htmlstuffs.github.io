@@ -23,7 +23,12 @@
   width: 700px;
   height: 300px;
 } 
-
+.canadaflag {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
 /* Button Stuff */
 .button {
     cursor: pointer;
