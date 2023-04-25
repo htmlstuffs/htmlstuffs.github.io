@@ -11,8 +11,9 @@
     }
 }
 .pagesubtitle {
-    text-align: center;
-    font-size: 21px;
+    text-align: center; 
+    font-size: 21px; 
+    color: #3366CC;
 }
 .center {
   border-radius: 30px;
