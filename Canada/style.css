@@ -13,7 +13,12 @@
 .pagesubtitle {
     text-align: center;
     font-size: 21px;
-    
+}
+.canadaflag {
+  border-radius: 30px;
+  width: 400px;
+}   
+
 /* Button Stuff */
 .button {
     cursor: pointer;
