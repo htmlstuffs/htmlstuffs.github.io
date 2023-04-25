@@ -25,8 +25,8 @@
 } 
 .canadaflag {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  align-items: center;
+  justify-content: center;
   width: 400px;
 }
 /* Button Stuff */
