@@ -11,6 +11,10 @@
         color: blue;
     }
 }
+.subtitle {
+    text-align: center;
+    font size: 28px;
+}
 .center {
   border-radius: 30px;
   display: block;
