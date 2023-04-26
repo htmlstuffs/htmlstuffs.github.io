@@ -55,3 +55,8 @@
  text-align: center;
  font-size: 21px;
 }
+/* Horizontal Rule CSS */
+hr {
+  background: linear-gradient(45deg, red, blue);
+  height: 5px;
+}
