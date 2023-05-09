@@ -5,7 +5,7 @@
       body {
         margin: 0; /* Remove default margin */
       }
-      iframe.v1 {      
+      video.v1 {      
         display: block;  /* iframes are inline by default */   
         height: 100vh;  /* Set height to 100% of the viewport height */   
         width: 100vw;  /* Set width to 100% of the viewport width */     
@@ -15,6 +15,7 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
   <body>
-    <iframe src="baller.mp4" class="v1"></iframe>
+    <video width="100vw" height="100vh" class="v1"autoplay>
+    <source src="baller.mp4" type="video/mp4">
   </body>
 </html>
